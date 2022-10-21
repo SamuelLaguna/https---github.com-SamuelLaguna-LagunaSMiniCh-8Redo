@@ -1,0 +1,15 @@
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/bin/Debug/net6.0/SLagunaMiniCh#8
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/bin/Debug/net6.0/SLagunaMiniCh#8.deps.json
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/bin/Debug/net6.0/SLagunaMiniCh#8.runtimeconfig.json
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/bin/Debug/net6.0/SLagunaMiniCh#8.dll
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/bin/Debug/net6.0/SLagunaMiniCh#8.pdb
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.csproj.AssemblyReference.cache
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.AssemblyInfoInputs.cache
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.AssemblyInfo.cs
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.csproj.CoreCompileInputs.cache
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.dll
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/refint/SLagunaMiniCh#8.dll
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.pdb
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/SLagunaMiniCh#8.genruntimeconfig.cache
+/Users/samlaguna/Desktop/Code combine/Homework/SLagunaMiniCh#8/obj/Debug/net6.0/ref/SLagunaMiniCh#8.dll
